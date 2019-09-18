@@ -8,7 +8,6 @@
 
 ![](https://github.com/Ay31/hello-world/blob/master/img/news/04.PNG)
 
-![](https://github.com/Ay31/hello-world/blob/master/img/news/05.PNG)![](https://github.com/Ay31/hello-world/blob/master/img/news/06.PNG)
+<div align=center>![](https://github.com/Ay31/hello-world/blob/master/img/news/05.PNG)![](https://github.com/Ay31/hello-world/blob/master/img/news/06.PNG)
 
 ![](https://github.com/Ay31/hello-world/blob/master/img/news/07.PNG)![](https://github.com/Ay31/hello-world/blob/master/img/news/08.PNG)
-
